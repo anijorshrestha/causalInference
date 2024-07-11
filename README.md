@@ -1,7 +1,7 @@
 # causalInference
 This project is based on ontology to create causal graphs and infer causality. The application is hosted in Docker, therefore, Docker should be installed.
 
-#Get started
+## Get started
 1. Run  command
    ```
    docker pull anijorshrestha/causal_inference:final
